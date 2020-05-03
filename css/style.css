@@ -1,0 +1,23 @@
+.kovi-calculator {
+	width: 500px;
+	padding: 30px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: rgb(150, 206, 231);
+	border: 1px solid black;
+}
+.operation-block {
+	margin-bottom: 10px;
+}
+.operation-block button {
+	width: 40px;
+	height: 40px;
+	margin: 20px;
+	border-radius: 5px;
+}
+.inputs-block {
+}
+.input-block {
+	display: inline-block;
+	margin-bottom: 10px;
+}
