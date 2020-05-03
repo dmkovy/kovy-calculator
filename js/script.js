@@ -47,6 +47,7 @@ function onButtonDivideClick() {
 	window.alert(summ)
 }
 
+
 buttonPlus.addEventListener('click', onButtonPlusClick)
 buttonMinus.addEventListener('click', onButtonMinusClick)
 buttonMultiply.addEventListener('click', onButtonMultiplyClick)
